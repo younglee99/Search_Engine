@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "457168586785",
+    "project_id": "purewallet-588af",
+    "storage_bucket": "purewallet-588af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457168586785:android:2ba888ca7489f021d2bb60",
+        "android_client_info": {
+          "package_name": "com.example.purewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457168586785-0au7e1jk3upugnnajbm24vver560i1r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDVSp3hsfqRG8K2IC9DDj1wRletTddKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457168586785-0au7e1jk3upugnnajbm24vver560i1r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457168586785-119n1o5v4s37bki5lkm7474fltfeuhlr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.purewallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457168586785:android:6064786e288d439ed2bb60",
+        "android_client_info": {
+          "package_name": "com.example.purewallet_search_engine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457168586785-0au7e1jk3upugnnajbm24vver560i1r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVDVSp3hsfqRG8K2IC9DDj1wRletTddKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457168586785-0au7e1jk3upugnnajbm24vver560i1r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457168586785-119n1o5v4s37bki5lkm7474fltfeuhlr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.purewallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
